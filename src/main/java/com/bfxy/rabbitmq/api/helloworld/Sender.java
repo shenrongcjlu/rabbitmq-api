@@ -15,7 +15,7 @@ public class Sender {
 		
 		//	1 创建ConnectionFactory
 		ConnectionFactory connectionFactory = new ConnectionFactory();
-		connectionFactory.setHost("192.168.11.71");
+		connectionFactory.setHost("43.139.145.154");
 		connectionFactory.setPort(5672);
 		connectionFactory.setVirtualHost("/");
 		
